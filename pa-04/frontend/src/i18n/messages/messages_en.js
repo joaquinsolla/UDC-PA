@@ -1,0 +1,80 @@
+// eslint-disable-next-line
+export default {
+
+    'project.app.Footer.text': 'PA Project - Area of Telematics Engineering - University of A Coruña',
+    'project.app.Header.home': 'Home',
+    'project.app.Header.logout': 'Logout',
+    'project.app.Home.welcome': 'MiniPortal main page content!',
+
+    'project.common.ErrorDialog.title': 'Error',
+
+    'project.global.buttons.cancel': 'Cancel',
+    'project.global.buttons.close': 'Close',
+    'project.global.buttons.next': 'Next',
+    'project.global.buttons.ok': 'OK',
+    'project.global.buttons.back': 'Back',
+    'project.global.buttons.save': 'Save',
+    'project.global.exceptions.NetworkError': 'Network error',
+    'project.global.fields.date': 'Date',
+    'project.global.fields.email': 'Email address',
+    'project.global.fields.firstName': 'First name',
+    'project.global.fields.lastName': 'Last name',
+    'project.global.fields.name': 'Name',
+    'project.global.fields.password': 'Password',
+    'project.global.fields.postalAddress': 'Postal address',
+    'project.global.fields.postalCode': 'Postal code',
+    'project.global.fields.userName': 'Username',
+    'project.global.fields.product': 'Product',
+    'project.global.fields.maxbid': 'Bid price',
+    'project.global.fields.state': 'State',
+    'project.global.validator.email': 'Provide a correct e-mail address',
+    'project.global.validator.passwordsDoNotMatch': 'Passwords do not match',
+    'project.global.validator.required': 'Required field',
+    'project.global.validator.incorrectQuantity': 'Incorrect quantity',
+
+    'project.catalog.CategorySelector.allDepartments': 'All categories',
+    'project.global.buttons.search': 'Search',
+    'project.catalog.FindProductsResult.noProductsFound': 'None products match with the search',
+    'project.global.fields.department': 'Category',
+    'project.global.fields.price': 'Price',
+    'project.global.fields.currentPrice': 'Current price',
+    'project.global.fields.minutesLeft': 'Time left (minutes)',
+    'project.global.fields.vendorUsername': 'Vendor',
+    'project.global.fields.publicationDate': 'Publication date',
+    'project.global.fields.productDescription': 'Product description',
+    'project.global.fields.shippingInfo': 'Shipping info',
+    'project.global.fields.initialPrice': 'Initial price',
+    'project.global.fields.myBid': 'My bid:',
+    'project.global.fields.welcome': 'Welcome ',
+
+    'project.users.ChangePassword.fields.confirmNewPassword': 'Confirm new password',
+    'project.users.ChangePassword.fields.newPassword': 'New password',
+    'project.users.ChangePassword.fields.oldPassword': 'Old password',
+    'project.users.ChangePassword.title': 'Change password',
+    'project.users.Login.title': 'Login',
+    'project.users.SignUp.fields.confirmPassword': 'Confirm password',
+    'project.users.SignUp.title': 'Sign up',
+    'project.users.UpdateProfile.title': 'Update profile',
+
+    'project.Bid.minimumEqualOrHigher': 'Bid must be equal or higher than: ',
+    'project.Bid.minimumHigher': 'Bid must be higher than: ',
+    'project.Bid.bid': 'Place bid',
+    'project.Bid.bidDone': 'Bid placed successfully',
+    'project.Bid.insertButton' : 'Insert a product',
+
+    'project.bid.header.bids': 'My bids',
+    'project.bid.FindDoneBidsResult.noBids': 'No bids found',
+
+    'project.bid.header.insertedProducts': 'My products',
+    'project.bid.FindInsertedProductsResult.noInsertedProducts': 'No announced products',
+
+    'project.global.fields.InsertedProductId': 'Product',
+    'project.global.fields.currentWinner': 'Current winner',
+
+    'project.shopping.InsertProduct.title': 'Insert a product',
+    'project.global.fields.bidMinutesDuration': 'Auction duration (minutes)',
+    'project.global.buttons.insert': 'Insert',
+    'project.bid.CategorySelector.none': '-Select a category-',
+
+
+}
