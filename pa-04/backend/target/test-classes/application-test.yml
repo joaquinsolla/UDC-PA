@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/paprojecttest?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Europe/Madrid
+    username: pa
+    password: pa
+    max-active: 1
+    max-idle: 1

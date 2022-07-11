@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="es.udc.paproject.backend.test.model.services.UserServiceTest" time="1.39" tests="11" errors="0" skipped="0" failures="0">
+  <properties/>
+  <testcase name="testLoginWithIncorrectPassword" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.203"/>
+  <testcase name="testLogin" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.203"/>
+  <testcase name="testChangePasswordWithNonExistentId" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.016"/>
+  <testcase name="testChangePassword" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.406"/>
+  <testcase name="testChangePasswordWithIncorrectPassword" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.203"/>
+  <testcase name="testUpdateProfile" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.094"/>
+  <testcase name="testSignUpDuplicatedUserName" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.094"/>
+  <testcase name="testLoginFromNonExistentId" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.015"/>
+  <testcase name="testLoginWithNonExistentUserName" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0"/>
+  <testcase name="testUpdateProfileWithNonExistentId" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.016"/>
+  <testcase name="testSignUpAndLoginFromId" classname="es.udc.paproject.backend.test.model.services.UserServiceTest" time="0.109"/>
+</testsuite>

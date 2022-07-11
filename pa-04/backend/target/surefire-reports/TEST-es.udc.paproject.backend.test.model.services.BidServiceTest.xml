@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="es.udc.paproject.backend.test.model.services.BidServiceTest" time="9.603" tests="13" errors="0" skipped="0" failures="0">
+  <properties/>
+  <testcase name="testInsertProductWithNonExistentCategoryId" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.578"/>
+  <testcase name="testBidOnAProductWithNonExistentProduct" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.109"/>
+  <testcase name="testFindInsertedProducts" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.156"/>
+  <testcase name="testBidOnAProduct" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.313"/>
+  <testcase name="testBidOnAProductWithBidTimeExpired" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.219"/>
+  <testcase name="testBidOnAProductWithNonExistentUserId" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.109"/>
+  <testcase name="testFindNoInsertedProducts" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.109"/>
+  <testcase name="testBidOnAProductWithBidLowerThanInitialPrice" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.219"/>
+  <testcase name="testInsertProductWithNonExistentUserId" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0"/>
+  <testcase name="testBidOnAProductWithBidLowerThanCurrentBid" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.406"/>
+  <testcase name="testInsertProduct" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.11"/>
+  <testcase name="TestFindDoneBids" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.125"/>
+  <testcase name="testBidOnAProductWithBidEqualToCurrentBid" classname="es.udc.paproject.backend.test.model.services.BidServiceTest" time="0.406"/>
+</testsuite>
